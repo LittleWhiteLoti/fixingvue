@@ -12,4 +12,10 @@
 
 <style scoped>
 @import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+.v-footer--fixed {
+  position: relative !important;
+  display: flex;
+  text-align: center;
+}
 </style>

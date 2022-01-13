@@ -121,7 +121,7 @@ export default {
   display: flex;
   justify-content: center;
   margin: 0;
-  height: 50vh;
+  height: 100vh;
 }
 
 /* Change the background property in .block to prevent it from using background:transparent and inheriting the dark color from parent style */
